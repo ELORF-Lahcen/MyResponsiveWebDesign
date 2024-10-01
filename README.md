@@ -1,9 +1,9 @@
 ---
 <h1 align="center">🖥️ My Responsive Web Design Projects</h1>
 
-**Certification:** Responsive Web Design from freeCodeCamp  
-**Duration:** 300 hours  
-**Projects:** 20 responsive web design projects  
+- **Certification:** Responsive Web Design from freeCodeCamp  
+- **Duration:** 300 hours  
+- **Projects:** 20 responsive web design projects  
 
 ---
 
