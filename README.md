@@ -22,7 +22,7 @@ This repository contains **20 projects** and assignments completed as part of th
 
 ### 1. **Cat Photo App Project** 🐱
 A simple web page showcasing cat photos using basic HTML elements.  
-📸 ![Cat Photo App Screenshot 1](ProjectsImages/1_1.png)
+📸 ![Cat Photo App Screenshot 1](./ProjectsImages/1_1.png)
 
 ### 2. **Cafe Menu Project** ☕
 A responsive cafe menu designed with flexbox and grid layouts.  
