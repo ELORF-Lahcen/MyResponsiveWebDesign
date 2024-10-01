@@ -98,7 +98,7 @@ A simple interactive game featuring a penguin, built using responsive design tec
 
 ### 20. **Personal Portfolio Webpage** 💼
 A responsive portfolio webpage to showcase personal projects, skills, and contact information.  
-📸 **Images:** Located in the `Projects Images/[20]PersonalPortfolioWebpage` folder.
+📸 **Images:** Located in the `ProjectsImages/[20]PersonalPortfolioWebpage` folder.
 
 ---
 
