@@ -1,7 +1,20 @@
 ---
-# 🖥️ My Responsive Web Design Projects
+<h1 align="center">🖥️ My Responsive Web Design Projects</h1>
 
-This repository contains **20 projects** developed as part of the **Responsive Web Design** certification from freeCodeCamp. Each project demonstrates the principles of responsive design using HTML and CSS.
+**Certification:** Responsive Web Design from freeCodeCamp  
+**Duration:** 300 hours  
+**Projects:** 20 responsive web design projects  
+
+---
+
+## 🌟 Overview
+
+This repository contains **20 projects** and assignments completed as part of the **Responsive Web Design** certification from freeCodeCamp, a **300-hour** course. It includes a variety of exercises and projects that demonstrate my understanding and application of modern web design principles, such as:
+
+- Responsive layouts 📐
+- Flexbox and Grid 🧩
+- Media queries 📱
+- Accessibility 🌍
 
 ---
 
