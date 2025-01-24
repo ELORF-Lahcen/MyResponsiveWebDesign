@@ -3,7 +3,7 @@
 
 - **Certification:** Responsive Web Design from freeCodeCamp  
 - **Duration:** 300 hours  
-- **Projects:** 20 responsive web design projects  
+- **Projects:** 20 responsive web design projects  Lahcen
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange.svg) ![CSS](https://img.shields.io/badge/CSS-3-blue.svg) ![Responsive](https://img.shields.io/badge/Responsive-Design-green.svg)
 
